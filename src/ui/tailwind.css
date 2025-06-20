@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-accent: hsl(153, 57%, 50%);
+  --breakpoint-tab: 400px;
+}
